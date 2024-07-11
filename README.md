@@ -2,7 +2,6 @@
 
 Arzoo Foundation is a website dedicated to spreading awareness about human trafficking and providing a donation gateway for survivors. Built with HTML, CSS, and JavaScript, it aims to empower people with knowledge and resources to combat this global issue.
 
-![Arzoo Foundation Logo](link/to/your/logo.png)
 
 ## Features
 
